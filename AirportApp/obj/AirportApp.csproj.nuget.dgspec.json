@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yashashwini\\Desktop\\FIT\\Cloud & JS\\OOPS and Event\\Object Oriented Programming-Yashashwini Alva\\Flight Booking\\AirportApp\\AirportApp\\AirportApp.csproj": {}
+    "C:\\Users\\Yashashwini\\Desktop\\FIT\\Git\\AirportApp\\AirportApp\\AirportApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yashashwini\\Desktop\\FIT\\Cloud & JS\\OOPS and Event\\Object Oriented Programming-Yashashwini Alva\\Flight Booking\\AirportApp\\AirportApp\\AirportApp.csproj": {
+    "C:\\Users\\Yashashwini\\Desktop\\FIT\\Git\\AirportApp\\AirportApp\\AirportApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yashashwini\\Desktop\\FIT\\Cloud & JS\\OOPS and Event\\Object Oriented Programming-Yashashwini Alva\\Flight Booking\\AirportApp\\AirportApp\\AirportApp.csproj",
+        "projectUniqueName": "C:\\Users\\Yashashwini\\Desktop\\FIT\\Git\\AirportApp\\AirportApp\\AirportApp.csproj",
         "projectName": "AirportApp",
-        "projectPath": "C:\\Users\\Yashashwini\\Desktop\\FIT\\Cloud & JS\\OOPS and Event\\Object Oriented Programming-Yashashwini Alva\\Flight Booking\\AirportApp\\AirportApp\\AirportApp.csproj",
+        "projectPath": "C:\\Users\\Yashashwini\\Desktop\\FIT\\Git\\AirportApp\\AirportApp\\AirportApp.csproj",
         "packagesPath": "C:\\Users\\Yashashwini\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yashashwini\\Desktop\\FIT\\Cloud & JS\\OOPS and Event\\Object Oriented Programming-Yashashwini Alva\\Flight Booking\\AirportApp\\AirportApp\\obj\\",
+        "outputPath": "C:\\Users\\Yashashwini\\Desktop\\FIT\\Git\\AirportApp\\AirportApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

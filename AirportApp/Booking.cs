@@ -21,6 +21,7 @@ namespace AirportApp
         public int Booking_Id
         { get
             {
+                //return booking IDs
                 return _booking_Id;
             }
         }
